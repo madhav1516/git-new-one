@@ -1,1 +1,2 @@
 thsi is my first file for the github 
+add onther file to commit and the folder to that .
